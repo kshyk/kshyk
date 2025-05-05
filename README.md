@@ -1,31 +1,17 @@
 ### Hi there 👋
 
-#### GitHub | Stats
-Showcase of my overall GitHub stats:
+#### 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakub-turkiewicz-39bb5729) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30455484) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jj.turkiewicz@gmail.com) 
 
-[![kshyk's GitHub | Stats](https://stats.quine.sh/kshyk/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kshyk)
+#### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=kshyk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kshyk&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshyk&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### GitHub | Topics Over Time
-Showcase of my topic commit history:
+#### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kshyk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-[![kshyk's GitHub | Topics Over Time](https://stats.quine.sh/kshyk/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kshyk)
+#### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kshyk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-#### GitHub | Languages Over Time
-Showcase of my language commit history:
-
-[![kshyk's GitHub | Languages Over Time](https://stats.quine.sh/kshyk/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kshyk)
-
-<!--
-**kshyk/kshyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
